@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="github.jsixface.yamlconfig" type="repository">
+    <properties maven-id="com.github.jsixface:yamlconfig:1.1.2" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/jsixface/yamlconfig/1.1.2/yamlconfig-1.1.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/yaml/snakeyaml/1.32/snakeyaml-1.32.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
