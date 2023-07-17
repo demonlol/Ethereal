@@ -1,0 +1,9 @@
+The GUI construction is extremely nested because I prefer to create and use my own builders for UI instantiation. I aim to revamp the whole thing once I'm finished with the prototype.
+
+Features:
+
+JSwing GUI
+Add Class
+Record (multiple) Lectures/Class Sessions
+ - Thread safe
+ - Folder organizers
